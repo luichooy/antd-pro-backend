@@ -1,0 +1,14 @@
+{
+  "name": "antd-pro-backend",
+  "version": "0.1.0",
+  "description": "The backend for vue-antd-pro",
+  "main": "index.js",
+  "author": "luichooy",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.6.4"
+  }
+}
